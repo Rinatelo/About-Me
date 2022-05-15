@@ -19,12 +19,12 @@ h2 {
 }
 
 a {
-	color: inherit;
-	text-decoration: none;
+    color: darkslategrey;
+    text-decoration: none;
     transition: color 0.3s;
-}
+    }
 
 a:hover {
-	color: aquamarine;
-	transition: color 0.3s;
-}
+    color: aquamarine;
+    transition: color 0.3s;
+    }
